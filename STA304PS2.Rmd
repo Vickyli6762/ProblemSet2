@@ -182,7 +182,7 @@ once_divorced_f %>% filter(booleandivorced==1) %>%ggplot(aes(y=age)) + geom_boxp
 
 # Appendix
 
-https://github.com/Vickyli6762/STA304PS2
+https://github.com/Vickyli6762/ProblemSet2
 
 
 
